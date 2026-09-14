@@ -7,7 +7,7 @@
   - Nguyễn Đức Minh (minhnd1307-tech) — UI & Report Coordinator / Nhóm trưởng
   - Nguyễn Văn Tài (nvtai24-ai20k) — Prompt Architect
   - Lâm Hoàng Phúc (lamhoangphuc2003st) — Tool & Schema Engineer
-  - Nguyễn Đình Thức (ThucNguyen1705) — Eval & Red-Team Specialist
+  - Nguyễn Đình Thực (ThucNguyen1705) — Eval & Red-Team Specialist
 - Provider/model: OpenAI / `gpt-4o-mini`
 
 # PHẦN A — Giới thiệu agent
@@ -149,7 +149,7 @@ Nhóm đã phân chia công việc rành mạch theo 4 vai trò độc lập (Pr
 
 ## C2. Self-reflection của từng thành viên
 
-### Nguyễn Đức Minh — [Điền MSSV]
+### Nguyễn Đức Minh — 2A202602891
 - **Vai trò/phần việc được nhận:** UI & Report Coordinator / Nhóm trưởng
 - **Những gì tôi đã thay đổi trong repo chung:** Xây dựng giao diện tương tác trực tiếp Streamlit Web UI (`starter_v0/app.py`), kết nối với `run_model_tool_loop`, hiển thị trực quan các tool calls, arguments và artifact version; điều phối và tổng hợp báo cáo `REPORT.md`.
 - **File hoặc artifact liên quan:** `starter_v0/app.py`, `starter_v0/requirements.txt`, `starter_v0/artifacts/REPORT.md`.
@@ -163,15 +163,15 @@ Nhóm đã phân chia công việc rành mạch theo 4 vai trò độc lập (Pr
 
 *(Thành viên A, B, C sẽ tự điền và commit phần của mình dưới đây)*
 
-### Nguyễn Văn Tài — [Điền MSSV]
+### Nguyễn Văn Tài — 2A202603004
 - **Vai trò/phần việc được nhận:** Prompt Architect
 - **File hoặc artifact liên quan:** `starter_v0/artifacts/system_prompt.md`, `starter_v0/scripts/check_output_format.py`, `starter_v0/scripts/log_version.py`
 
-### Lâm Hoàng Phúc — [Điền MSSV]
+### Lâm Hoàng Phúc — 2A202602582
 - **Vai trò/phần việc được nhận:** Tool & Schema Engineer
 - **File hoặc artifact liên quan:** `starter_v0/artifacts/tools.yaml`, `starter_v0/evidence/B-tools-schema.md`, `starter_v0/evidence/B-tools-run-analysis.csv`
 
-### Nguyễn Đình Thức — [Điền MSSV]
+### Nguyễn Đình Thực — 2A202603014
 - **Vai trò/phần việc được nhận:** Eval & Red-Team Specialist
 - **File hoặc artifact liên quan:** `starter_v0/data/eval_group.json` (G01–G10), `data/eval_adversarial.json`
 
